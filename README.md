@@ -1,5 +1,3 @@
-### Professional Software Developer
-<br/>
 <div width="100%">
   <img src="circle_V.svg" width="25%"/>&nbsp;&nbsp;
   <img src="circle_III.svg" width="15%"/>&nbsp;&nbsp;
