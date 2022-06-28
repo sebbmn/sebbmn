@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="github_banner.png" width="100%"/>
-</p>
+<div width="100%">
+  <img src="logo_github_V.svg" width="28%"/>
+  <img src="logo_github_III.svg" width="18%"/>
+  <img src="logo_github_I.svg" width="12%"/>
+  <img src="logo_github_II.svg" width="8%"/>
+</div>
 
 ### Professional Software Developer 🖥️
 <div>
