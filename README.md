@@ -1,13 +1,3 @@
-<div width="100%">
-  <img src="circle_V.svg" width="25%"/>&nbsp;&nbsp;
-  <img src="circle_III.svg" width="15%"/>&nbsp;&nbsp;
-  <img src="circle_I.svg" width="10%"/>&nbsp;&nbsp;
-  <img src="circle_II.svg" width="6%"/>&nbsp;&nbsp;
-  <img src="circle_V.svg" width="4%"/>&nbsp;&nbsp;
-  <img src="circle_III.svg" width="3%"/>
-</div>
-<br/>
-<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="18px" width="18px"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="18px" width="18px"/>&nbsp;
